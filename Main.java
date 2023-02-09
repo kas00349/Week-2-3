@@ -6,3 +6,7 @@ public class Main {
         Gson gson = builder.create();
     }
 }
+
+{"title":"This is Main","size":2}
+
+Process finished with exit code 0
